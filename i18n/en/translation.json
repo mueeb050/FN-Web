@@ -9,11 +9,11 @@
 "address" : "address",
 "street" : "street",
 "state" : "state",
-"city" : "city",
+"city" : "city"
 // zip code
 // remove
 // from
-// total_tax: "",
+// total_tax:,
 // discount
 // status
 // per_page
@@ -34,7 +34,7 @@
 // new_offer
 // back
 // title
-// description: "Description",
+// description,
 // discountable
 // submit
 // total_sales_report
