@@ -1,5 +1,5 @@
 {
-  "login": "Login",
+"login": "Login",
 "POS" : "POS",
 "search" : "search",
 "step" : "step", 
@@ -10,57 +10,4 @@
 "street" : "street",
 "state" : "state",
 "city" : "city"
-// zip code
-// remove
-// from
-// total_tax:,
-// discount
-// status
-// per_page
-// search_offer
-// create
-// title
-// type
-// item_offer
-// title
-// type
-// start_date
-// end_date
-// percentage_discount
-// flat_discount
-// max_discount
-// min_discount
-// actions
-// new_offer
-// back
-// title
-// description,
-// discountable
-// submit
-// total_sales_report
-// total_sales
-// user
-// location
-// channel
-// print_report
-// other_amount
-// total_cash
-// total_orders
-// tax_invoice_number
-// ordered_at
-// completed_at
-// GST
-// amount
-// delivery_charges
-// service_charges
-// ccpayment_tax
-// fees
-// total
-// cost
-// profit
-// contact
-// terms
-// policy
-
-
 }
